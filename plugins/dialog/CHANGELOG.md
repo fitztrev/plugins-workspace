@@ -1,5 +1,14 @@
 # Changelog
 
+## \[2.0.0-alpha.6]
+
+- [`b1c6a78`](https://github.com/tauri-apps/plugins-workspace/commit/b1c6a7885e6aa036ec08b332bffa82b99a794e85)([#820](https://github.com/tauri-apps/plugins-workspace/pull/820)) On Windows, fix `open` dialog `defaultPath`, when invoked from JS, not working if the path uses forward slash (`/`)
+- [`7c59e37`](https://github.com/tauri-apps/plugins-workspace/commit/7c59e3785b3b72c8cb155b3b39ec08832e851bc7)([#837](https://github.com/tauri-apps/plugins-workspace/pull/837)) Re-export `FileResponse` interface.
+
+### Dependencies
+
+- Upgraded to `fs@2.0.0-alpha.6`
+
 ## \[2.0.0-alpha.4]
 
 - [`387c2f9`](https://github.com/tauri-apps/plugins-workspace/commit/387c2f9e0ce4c75c07ffa3fd76391a25b58f5daf)([#802](https://github.com/tauri-apps/plugins-workspace/pull/802)) Update to @tauri-apps/api v2.0.0-alpha.12.
@@ -44,7 +53,7 @@
 
 - [`717ae67`](https://github.com/tauri-apps/plugins-workspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
   pull/371)) First v2 alpha release!
-ri-apps/plugins-workspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
+  ri-apps/plugins-workspace/commit/717ae670978feb4492fac1f295998b93f2b9347f)([#371](https://github.com/tauri-apps/plugins-workspace/pull/371)) First v2 alpha release!
   \`
 
 ## \[2.0.0-alpha.0]

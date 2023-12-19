@@ -1,5 +1,9 @@
 # Changelog
 
+## \[2.0.0-alpha.6]
+
+- [`2d6bfbf`](https://github.com/tauri-apps/plugins-workspace/commit/2d6bfbfacfa45899a54f8afd788fa0a3a9aa28d1)([#826](https://github.com/tauri-apps/plugins-workspace/pull/826)) Fix promise rejection error only containing the context and stripping the actual error message.
+
 ## \[2.0.0-alpha.4]
 
 - [`387c2f9`](https://github.com/tauri-apps/plugins-workspace/commit/387c2f9e0ce4c75c07ffa3fd76391a25b58f5daf)([#802](https://github.com/tauri-apps/plugins-workspace/pull/802)) Update to @tauri-apps/api v2.0.0-alpha.12.
